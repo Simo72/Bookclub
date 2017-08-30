@@ -1,24 +1,7 @@
-# README
+# Childrens Bookclub
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To encourage reading in children and enable older children the option to mentor.
 
-Things you may want to cover:
+Sign up and create your own bookclub that you can invite friends/classmates, book suggestions and hopefully the option to buy books.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
